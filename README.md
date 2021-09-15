@@ -6,6 +6,9 @@ Did you know recycling is the law in Philadelphia and you can be fined up to $30
 ![personal project proposal](https://user-images.githubusercontent.com/77748618/133489307-29d4facf-c85a-4cbc-8cd7-5f543d6fb782.png)
 
 ### Project Relevance
+This project will cover the following topics: Test-Driven Development, Unified Modeling Language, Design Patterns, Debugging Code profiling and Organization, Access to Database.
+
+### Project Relevance
 
 
 ### Resources
