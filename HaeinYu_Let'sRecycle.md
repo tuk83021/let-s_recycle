@@ -15,7 +15,8 @@ To develop an Android app, there would be multiple parts to do in this project. 
 This repository contains an Android Studio App. If you hit the purple button, you will see a welcom message. 
 
 You need "Pixel 2 API 28" of Running Device in order to run this code. You need to simply click the green triangle button on the toolbar to run this code. Your virtual device will pop up and now you can hit the purple button. 
-[HaeinYu_Let'sCycle.GIF.zip](https://github.com/tuk83021/let-s_recycle/files/7194400/HaeinYu_Let.sCycle.GIF.zip)
+
+[HaeinYu_Let'sCycle.MOV.zip](https://github.com/tuk83021/let-s_recycle/files/7194431/HaeinYu_Let.sCycle.MOV.zip)
 
 
 
