@@ -11,6 +11,14 @@ This project would cover the topics discussed in this class. We would be using U
 ### Conceptual Design
 To develop an Android app, there would be multiple parts to do in this project. Since notifications/alarms are the core function of this app, we would need to have both back-end and front-end developments. The back-end would be for collecting and saving the recycling collection data up-to-date. This process might be done by using open data APIs from the City of Philadelphia. Building a user interface with buttons, images, layout, input field to collect input and display the results would be the front-end. 
 
+### Background
+This repository contains an Android Studio App. If you hit the purple button, you will see a welcom message. 
+
+You need "Pixel 2 API 28" of Running Device in order to run this code. You need to simply click the green triangle button on the toolbar to run this code. Your virtual device will pop up and now you can hit the purple button. 
+[HaeinYu_Let'sCycle.GIF.zip](https://github.com/tuk83021/let-s_recycle/files/7194400/HaeinYu_Let.sCycle.GIF.zip)
+
+
+
 
 ### Resources
 Java, Android Studio
